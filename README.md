@@ -23,6 +23,7 @@ Aplikasi tryout berbasis Flutter yang terhubung dengan REST API.
 - [✔️ VS Code](https://code.visualstudio.com/) atau [Android Studio](https://developer.android.com/studio)
 - [✔️ Android Emulator](https://developer.android.com/studio/run/emulator) atau perangkat HP
 
+
 ### Cek Flutter:
 
 ```bash
@@ -30,11 +31,13 @@ flutter --version
 flutter doctor
 ```
 
+
 ### Clone Proyek: 
 
 ```bash
 https://github.com/qdzxjtf/TryOut-Flutter
 ```
+
 
 ### Instalasi Dependency:
 
@@ -42,11 +45,13 @@ https://github.com/qdzxjtf/TryOut-Flutter
 flutter pub get
 ```
 
+
 ### Ubah Tampilan Logo:
 ```bash
 flutter pub run flutter_launcher_icons
 flutter pub run flutter_native_splash
 ```
+
 
 ### Buka Emulator / Sambungkan Perangkat HP:
 ✅ Emulator (Android Studio / VS Code)
@@ -64,12 +69,14 @@ Cek dengan:
 flutter devices
 ```
 
+
 ### Jalankan Aplikasi:
 ```bash
 flutter pub run
 ```
 
 ---
+
 
 ## Cara Penggunaan
 
