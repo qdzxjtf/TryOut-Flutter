@@ -81,6 +81,6 @@ flutter pub run
 
 - Login
 
-- Pilih Coba Try Out
+- Pilih Mulai Try Out
 
 - Hasil Tryout akan keluar jika sudah selesai mengerjakan
