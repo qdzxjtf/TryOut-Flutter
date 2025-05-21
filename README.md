@@ -6,7 +6,7 @@ Aplikasi tryout berbasis Flutter yang terhubung dengan REST API. Pengguna dapat 
 
 ## 🔁 Clone Proyek
 
-```http
+```bash
 https://github.com/qdzxjtf/TryOut-Flutter
 ```
 
@@ -25,3 +25,5 @@ https://github.com/qdzxjtf/TryOut-Flutter
 ```bash
 flutter --version
 flutter doctor
+```
+
