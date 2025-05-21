@@ -30,25 +30,25 @@ flutter --version
 flutter doctor
 ```
 
-### Clone Proyek 
+### Clone Proyek: 
 
 ```bash
 https://github.com/qdzxjtf/TryOut-Flutter
 ```
 
-### Instalasi Dependency
+### Instalasi Dependency:
 
 ```bash
 flutter pub get
 ```
 
-### Ubah Tampilan Logo
+### Ubah Tampilan Logo:
 ```bash
 flutter pub run flutter_launcher_icons
 flutter pub run flutter_native_splash
 ```
 
-### Buka Emulator / Sambungkan Perangkat HP
+### Buka Emulator / Sambungkan Perangkat HP:
 ✅ Emulator (Android Studio / VS Code)
 Jalankan Android Studio → klik Device Manager → klik ▶️ pada emulator.
 
@@ -62,7 +62,7 @@ Cek dengan:
 flutter devices
 ```
 
-### Jalankan Aplikasi
+### Jalankan Aplikasi:
 ```bash
 flutter pub run
 ```
