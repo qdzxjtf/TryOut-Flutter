@@ -14,7 +14,7 @@ Aplikasi tryout berbasis Flutter yang terhubung dengan REST API.
 - Logout & simpan token dengan SharedPreferences
 
 ---
-Panduan lengkap instalasi dan penggunaan aplikasi terdapat pada bagian di bawah.
+
 ## Cara Menjalankan Aplikasi
 
 ### Pastikan Sudah Terinstall:
