@@ -4,6 +4,17 @@ Aplikasi tryout berbasis Flutter yang terhubung dengan REST API.
 
 ---
 
+## Fitur Utama
+
+- Register & Login dengan API eksternal
+- Splash screen & pengecekan token otomatis
+- Tryout dinamis: soal dan jawaban dari API
+- Navigasi bersih (tidak kembali ke splash/login)
+- Skor dihitung otomatis
+- Logout & simpan token dengan SharedPreferences
+
+---
+
 ## Cara Menjalankan Aplikasi
 
 ### Pastikan Sudah Terinstall:
