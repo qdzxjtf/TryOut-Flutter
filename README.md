@@ -17,6 +17,7 @@ Aplikasi tryout berbasis Flutter yang terhubung dengan REST API.
 
 ## Cara Menjalankan Aplikasi
 
+
 ### Pastikan Sudah Terinstall:
 
 - [✔️ Flutter SDK](https://docs.flutter.dev/get-started/install)
@@ -34,6 +35,7 @@ flutter doctor
 
 ### Clone Proyek: 
 
+
 ```bash
 https://github.com/qdzxjtf/TryOut-Flutter
 ```
@@ -41,12 +43,14 @@ https://github.com/qdzxjtf/TryOut-Flutter
 
 ### Instalasi Dependency:
 
+
 ```bash
 flutter pub get
 ```
 
 
 ### Ubah Tampilan Logo:
+
 ```bash
 flutter pub run flutter_launcher_icons
 flutter pub run flutter_native_splash
@@ -54,23 +58,23 @@ flutter pub run flutter_native_splash
 
 
 ### Buka Emulator / Sambungkan Perangkat HP:
+
 ✅ Emulator (Android Studio / VS Code)
-
 Jalankan Android Studio → klik Device Manager → klik ▶️ pada emulator.
-
 Atau di VS Code, buka Command Palette Ctrl+Shift+P → Flutter: Launch Emulator.
 
 ✅ Atau Hubungkan HP Android via USB:
-
 Aktifkan Developer Options dan USB Debugging.
 
 Cek dengan:
+
 ```bash
 flutter devices
 ```
 
 
 ### Jalankan Aplikasi:
+
 ```bash
 flutter pub run
 ```
