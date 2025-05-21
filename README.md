@@ -1,16 +1,30 @@
-# tryout_flutter
+# 📱 Tryout App (Flutter)
 
-A new Flutter project.
+Aplikasi tryout berbasis Flutter yang terhubung dengan REST API. Pengguna dapat login, mendaftar, mengerjakan soal, melihat hasil, dan logout. Dibuat sebagai proyek ujian, PKL, atau tes rekrutmen Flutter Developer.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Fitur Utama
 
-A few resources to get you started if this is your first Flutter project:
+- ✅ Register & Login dengan API eksternal
+- ✅ Splash screen & pengecekan token otomatis
+- ✅ Tryout dinamis: soal dan jawaban dari API
+- ✅ Navigasi bersih (tidak kembali ke splash/login)
+- ✅ Skor dihitung otomatis
+- ✅ Logout & simpan token dengan SharedPreferences
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Persiapan Awal
+
+### ✅ Pastikan Sudah Terinstall:
+
+- [✔️ Flutter SDK](https://docs.flutter.dev/get-started/install)
+- [✔️ VS Code](https://code.visualstudio.com/) atau [Android Studio](https://developer.android.com/studio)
+- [✔️ Android Emulator](https://developer.android.com/studio/run/emulator) atau perangkat HP
+
+### 🔍 Cek Flutter:
+
+```bash
+flutter --version
+flutter doctor
