@@ -50,11 +50,13 @@ flutter pub run flutter_native_splash
 
 ### Buka Emulator / Sambungkan Perangkat HP:
 ✅ Emulator (Android Studio / VS Code)
+
 Jalankan Android Studio → klik Device Manager → klik ▶️ pada emulator.
 
 Atau di VS Code, buka Command Palette Ctrl+Shift+P → Flutter: Launch Emulator.
 
 ✅ Atau Hubungkan HP Android via USB:
+
 Aktifkan Developer Options dan USB Debugging.
 
 Cek dengan:
