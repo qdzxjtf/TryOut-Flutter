@@ -1,5 +1,5 @@
 # 📱 Tryout App (Flutter)
-###Aplikasi tryout berbasis Flutter yang terhubung dengan REST API.
+Aplikasi tryout berbasis Flutter yang terhubung dengan REST API.
 ---
 
 ## Cara Menjalankan Aplikasi
