@@ -73,6 +73,12 @@ flutter devices
 flutter pub run
 ```
 
+### Membuat file .apk
+
+```bash
+flutter build apk
+```
+
 ---
 
 ## Cara Penggunaan
